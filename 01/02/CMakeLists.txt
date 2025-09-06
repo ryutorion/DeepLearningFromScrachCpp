@@ -15,3 +15,9 @@ add_executable(
 	01-02-OR.cpp
 	OR.h
 )
+
+add_executable(
+	01-02-XOR
+	01-02-XOR.cpp
+	XOR.h
+)
