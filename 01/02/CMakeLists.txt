@@ -9,3 +9,9 @@ add_executable(
 	01-02-NAND.cpp
 	NAND.h
 )
+
+add_executable(
+	01-02-OR
+	01-02-OR.cpp
+	OR.h
+)
